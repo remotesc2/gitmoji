@@ -6,7 +6,7 @@ import pug from 'gulp-pug'
 import pugLint from 'gulp-pug-lint'
 import browserSync from 'browser-sync'
 import plumber from 'gulp-plumber'
-import gitmojis from './src/data/gitmojis.json'
+import gitmojis from './src/data/gitmojis.zh-CN.json'
 import contributors from './src/data/contributors.json'
 import ghPages from 'gulp-gh-pages'
 
